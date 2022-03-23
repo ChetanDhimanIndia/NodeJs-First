@@ -1,0 +1,5 @@
+2022/03/23-17:18:23.958 13cc Recovering log #42
+2022/03/23-17:18:23.958 13cc Level-0 table #45: started
+2022/03/23-17:18:23.994 13cc Level-0 table #45: 237 bytes OK
+2022/03/23-17:18:24.051 13cc Delete type=0 #42
+2022/03/23-17:18:24.051 13cc Delete type=3 #40
